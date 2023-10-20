@@ -1,21 +1,21 @@
 {
-  "name": "tasty-treats",
+  "name": "parcel-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://gelsomin0.github.io/tasty-treats",
+  "homepage": "https://gelsomin0.github.io/parcel-template",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-template/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gelsomin0/tasty-treats.git"
+    "url": "git+https://github.com/gelsomin0/parcel-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gelsomin0/tasty-treats/issues"
+    "url": "https://github.com/gelsomin0/parcel-template/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
